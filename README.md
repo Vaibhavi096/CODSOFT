@@ -2,7 +2,9 @@
 
 1) Landing Page
 
-https://github.com/Vaibhavi096/CODSOFT/assets/152498460/28d59b5a-b7b8-4de0-932c-70cdf1f3fc3e
+
+
+https://github.com/Vaibhavi096/CODSOFT/assets/152498460/bcd32a57-55bd-493a-8849-c8fe84760969
 
 
  
