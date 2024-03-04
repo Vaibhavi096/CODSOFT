@@ -1,7 +1,11 @@
 #Project-Samples 
 
 1) Landing Page
- https://github.com/Vaibhavi096/CODSOFT/tree/main/Landing%20Page
+
+https://github.com/Vaibhavi096/CODSOFT/assets/152498460/28d59b5a-b7b8-4de0-932c-70cdf1f3fc3e
+
+
+ 
 
 2) Portfolio-Vaibhavi
 #Output 
