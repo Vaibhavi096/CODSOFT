@@ -2,11 +2,7 @@
 
 1) Landing Page
 
-
-
-
- 
-
+  
 2) Portfolio-Vaibhavi
 #Output 
 ![Screenshot 2024-03-04 153502](https://github.com/Vaibhavi096/CODSOFT/assets/152498460/a31dae3b-6011-4028-b801-19e90c131fb8)
