@@ -1,7 +1,11 @@
 #Project-Samples 
 
 1) Landing Page
-file:///C:/Users/vaibhavi%20khopade/OneDrive/Desktop/CODSOFT/Landing%20Page/index.html
+
+
+https://github.com/Vaibhavi096/CODSOFT/assets/152498460/b9e4e961-b7d5-465e-9fdc-b67ba1ef3884
+
+
   
 2) Portfolio-Vaibhavi
 #Output 
