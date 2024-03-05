@@ -1,7 +1,7 @@
 #Project-Samples 
 
 1) Landing Page
-
+file:///C:/Users/vaibhavi%20khopade/OneDrive/Desktop/CODSOFT/Landing%20Page/index.html
   
 2) Portfolio-Vaibhavi
 #Output 
